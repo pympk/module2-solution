@@ -1,3 +1,3 @@
 # Test of Git: initial
-<!-- # after initial -->
+# after initial
 
